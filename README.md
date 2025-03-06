@@ -6,3 +6,5 @@ html is hyper text markup language
 
 
 js is  javascript
+
+By Akwii Diana
